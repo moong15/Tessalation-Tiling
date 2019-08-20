@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Empty
+  - Triangle
+  - Rhombus
+  - Trapezium
+  - Hexagon
+  - Pentagon
+  - rd1
+  - rd2
+  - p1
+  - p2
+  - t1
+  - t2
+  - t3
+  - t4
+  - re1
+  - re2
+  - rh1
+  - rh2
+  - rh3
+  - tr1
+  - tr2
+  - tr3
+  - tr4
+  - tr5
+  - Scroll
+  - septagon
+  - t5
+  - octagon
+  - ninetails
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - background
+  - Panel
+  - used
+  - not used
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
